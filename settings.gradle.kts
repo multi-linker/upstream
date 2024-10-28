@@ -3,3 +3,5 @@ plugins {
 }
 rootProject.name = "upstream"
 include("upstream-core")
+include("upstream-vertx")
+
